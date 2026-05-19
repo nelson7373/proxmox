@@ -1,3 +1,7 @@
+---
+numbersections: true
+---
+
 # Managed Security Operations Center (SOC) Proposal
 
 **Prepared for:** [Client Name]  
@@ -35,7 +39,7 @@ The primary objectives of this managed SOC engagement are to:
 
 The proposed managed SOC service includes the following core capabilities.
 
-### 1. Security Monitoring
+### Security Monitoring
 
 [Provider Name] will monitor agreed security telemetry and alert sources to identify suspicious activity and potential security incidents. Monitoring coverage may include:
 
@@ -48,7 +52,7 @@ The proposed managed SOC service includes the following core capabilities.
 
 Monitoring will be aligned to the final scope, technical integrations, and log source availability confirmed during onboarding.
 
-### 2. Alert Triage and Investigation
+### Alert Triage and Investigation
 
 All in-scope alerts will be reviewed and triaged by SOC analysts in accordance with documented procedures. This includes:
 
@@ -58,7 +62,7 @@ All in-scope alerts will be reviewed and triaged by SOC analysts in accordance w
 - Basic and intermediate investigation activities
 - Identification of false positives and tuning recommendations where patterns are observed
 
-### 3. Incident Escalation and Response Coordination
+### Incident Escalation and Response Coordination
 
 Where alerts indicate a credible security event or incident, [Provider Name] will escalate to [Client Name]'s designated contacts using agreed communication and severity procedures. Support includes:
 
@@ -70,7 +74,7 @@ Where alerts indicate a credible security event or incident, [Provider Name] wil
 
 This proposal assumes that [Client Name] retains authority for business decisions, system changes, and final remediation approval unless separately agreed.
 
-### 4. Threat Detection Improvement
+### Threat Detection Improvement
 
 The managed SOC function will include ongoing refinement of detection quality over time. This may include:
 
@@ -79,7 +83,7 @@ The managed SOC function will include ongoing refinement of detection quality ov
 - Identification of visibility gaps
 - Proposals for additional log sources or security controls
 
-### 5. Reporting and Service Governance
+### Reporting and Service Governance
 
 [Provider Name] will provide regular reporting to support operational transparency and governance. Reporting will typically include:
 
@@ -256,4 +260,3 @@ To progress this proposal, the following next steps are recommended:
 ## Acceptance
 
 If this proposal aligns with [Client Name]'s requirements, [Provider Name] will prepare the final engagement documents for approval and service initiation.
-
